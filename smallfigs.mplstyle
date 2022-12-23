@@ -30,7 +30,7 @@ mathtext.fontset: cm
 # axes.linewidth: 1.0
 axes.titlesize: 12
 # axes.titleweight: bold
-axes.labelsize: 7
+axes.labelsize: 9
 # axes.labelweight: bold
 # axes.spines.top: True
 # axes.spines.right: True
