@@ -23,6 +23,7 @@ font.family: serif
 # font.sans-serif: Avenir, 'Avenir Next LT Pro', Arial, Helvetica, sans-serif
 font.weight:normal 
 font.size: 6
+text.Text.fontsize: 6
 mathtext.fontset: cm
 # 
 # ### AXES
