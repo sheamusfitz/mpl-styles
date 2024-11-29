@@ -40,4 +40,4 @@ axes.labelsize:   9
 #     'color', ['0072B2', '009E73', 'D55E00', 'CC79A7', 'F0E442', '56B4E9']
 # )
 
-savefig.format = 'svg'
+savefig.format: 'svg'
