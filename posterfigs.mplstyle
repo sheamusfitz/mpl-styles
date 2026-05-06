@@ -9,21 +9,6 @@ ytick.labelsize: 15
 legend.fontsize: 11
 figure.titlesize: 19
 
-# Line Weights and Markers
-lines.linewidth: 3.0
-lines.markersize: 10
-axes.linewidth: 2.0
-
-# Ticks
-xtick.major.size: 10
-xtick.major.width: 2.0
-xtick.minor.size: 5
-xtick.minor.width: 1.5
-ytick.major.size: 10
-ytick.major.width: 2.0
-ytick.minor.size: 5
-ytick.minor.width: 1.5
-
 # Legend
 legend.frameon: True
 legend.edgecolor: black
