@@ -16,4 +16,4 @@ legend.fancybox: False
 
 # Figure Layout
 figure.autolayout: True
-figure.dpi: 300
+# figure.dpi: 300
