@@ -15,5 +15,4 @@ legend.edgecolor: black
 legend.fancybox: False
 
 # Figure Layout
-figure.autolayout: True
 # figure.dpi: 300
